@@ -1,1 +1,1 @@
-Ropository for lumos Academu Backend Development Submissions
+Repository for lumos Academy Backend Development Submissions
