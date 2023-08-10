@@ -2,7 +2,7 @@ const bodyParser = require("body-parser");
 const express = require("express");
 const app = express();
 const mongoose = require("mongoose");
-const cors = require("Cors");
+const cors = require("cors");
 
 mongoose.connect('mongodb+srv://agrawalbhavesh80:9jpBPz5q9j8PbwZ4@cluster0.y3hgrx3.mongodb.net/?retryWrites=true&w=majority')
 const db = mongoose.connection;
